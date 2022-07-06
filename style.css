@@ -1,0 +1,130 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+.first-section{
+    background-image: url(images/donation13.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+
+.row1{
+    margin: 0 auto;
+}
+.link-button{
+    background-color: tomato;
+    color: white;
+    padding: 15px;
+    font-weight: 700;
+    margin-top: 80px;
+}
+.top-banner{
+    color: white;
+    text-align: center;
+}
+.donation-area{
+    text-align: center;
+    margin-top: 100px;
+}
+.donation-area h2{
+    display: inline;
+    padding: 15px;
+}
+.marked{
+    border: 2px solid red;
+    color: red;
+}
+.row2{
+    margin-top: 100px;
+}
+.amount-submit{
+    text-indent: inherit;
+    margin-top: 60px;
+    border: none;
+}
+hr{
+    width: 50%;
+    margin-top: 40px;
+}
+.link-button2{
+    margin-top: 40px;
+    color: white;
+    background: tomato;
+    padding: 10px;
+    font-weight: 700;
+}
+.row3{
+    text-align: center;
+    margin-top: 100px;
+}
+.row3 h1{
+    font-weight: 700;
+}
+.row4{
+    display: flex;
+    margin-top: 40px;
+    padding: 200px;
+}
+.education-info{
+    background-color: lightgoldenrodyellow;
+}
+.row5{
+    margin-top: 30px;
+    margin-left: 180px;
+
+}
+.know-more{
+    width: 800px;
+    height: 500px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.link-buttton3{
+    color: white;
+    padding: 15px;
+    font-weight: 700;
+    background-color: tomato;
+    margin-left: 10px;
+}
+.update{
+    text-align: center;
+    
+}
+.submit{
+    height: 100px;
+    width: 40%;
+    background: lemonchiffon;
+    margin-left: 600px;
+    text-align: center;
+    margin-top: 50px;
+}
+.link-button5{
+    font-weight: 700;
+    color: white;
+    background: tomato;
+    padding: 10px 10px;
+    
+    
+    
+}
+.email{
+    padding: 10px;
+    width: 250px;
+}
+.footer-area{
+    background: black;
+    text-align: center;
+    height: 150px;
+}
+.footer-area h1{
+    color: red;
+
+}
+.footer-area h4{
+    color: bisque;
+
+}
